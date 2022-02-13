@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pragnya
-- 👀 Interested in html, css, java and python
-- 🌱 Currently learning java and python
+- 👀 Interested in html, css and js
+- 🌱 Currently learning css and js
 - 📫 Reach me at 
       ⨁Email: pragnyayadav22@gmail.com
       ⨁Insta: https://instagram.com/py.2207
